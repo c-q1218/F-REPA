@@ -1,4 +1,4 @@
-encoder_ckpt/
+encoder_ckpt/checkpoints
 wandb/
 # Byte-compiled / optimized / DLL files
 __pycache__/
